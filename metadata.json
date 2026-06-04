@@ -1,0 +1,6 @@
+{
+  "name": "Zouma Gift Shop",
+  "description": "Full-stack gift shop management system with client profiles, automated order inventory control, product catalog management, customizable employee roles, and a complete analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
